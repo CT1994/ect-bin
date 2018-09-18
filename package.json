@@ -1,0 +1,30 @@
+{
+  "name": "ect-bin",
+  "version": "1.0.0",
+  "description": "fhanau Efficient-Compression-Tool binaries",
+  "main": "index.js",
+  "scripts": {
+    "postinstall": "node lib/install.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CT1994/ect-bin.git"
+  },
+  "keywords": [
+    "Efficient-Compression-Tool",
+    "ect",
+    "compression",
+    "bin"
+  ],
+  "author": "Constantinos Tsiakouris",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CT1994/ect-bin/issues"
+  },
+  "homepage": "https://github.com/CT1994/ect-bin#readme",
+  "dependencies": {
+    "bin-wrapper": "^4.0.0",
+    "chalk": "^2.4.1"
+  }
+}
