@@ -1,6 +1,6 @@
 {
   "name": "ect-bin",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "fhanau Efficient-Compression-Tool binaries",
   "main": "index.js",
   "scripts": {
