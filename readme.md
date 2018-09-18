@@ -1,5 +1,7 @@
 [Efficient-Compression-Tool](https://github.com/fhanau/Efficient-Compression-Tool) is a compressor for image files, PNG without losing any information.
 
+> currently only supports Windows & Linux
+
 ## Install
 
 ```
